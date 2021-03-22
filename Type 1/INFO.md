@@ -1,3 +1,7 @@
+# 題目參考自 [歡樂逍遙: TQC+ 程式語言 Java6 範例解題總整理](https://happyplayblogs.blogspot.com/2015/05/tqc-java6-106.html)
+
+---
+
 # 101 字串列印
 ## 請輸出以下執行結果：<br />
     I love Java!
