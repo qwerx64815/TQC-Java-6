@@ -1,6 +1,6 @@
 # 101 字串列印
 請輸出以下執行結果：<br />
-    I love Java!
+    I love Java!<br />
     Java is so good!
 
 # 102 字串列印
