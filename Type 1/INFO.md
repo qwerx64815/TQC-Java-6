@@ -1,7 +1,7 @@
 # 101 字串列印
 請輸出以下執行結果：<br />
-`I love Java!    
-Java is so good!`<br />
+    I love Java!    
+    Java is so good!
 
 # 102 字串列印
 使用者輸入整數數值並轉換單位(1 kg = 2.20462 pounds)。請輸出以下執行結果：<br />
