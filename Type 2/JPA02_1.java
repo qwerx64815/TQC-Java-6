@@ -5,7 +5,8 @@ class JPA02_1 {
 	public static void main(String[] args) {
 		for(int i = 0; i < 2; i++) {
 			out.println("Please enter score: ");
-			compareNum(new Scanner(System.in).nextInt());
+			try { compareNum(new Scanner(System.in).nextInt()); }
+			catch(Exception ex) { out.println("Input error!"); }
 		}
 	}
 	
